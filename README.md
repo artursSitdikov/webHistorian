@@ -1,15 +1,11 @@
-# webHistorian
+Hello, everyone!
 
-Hello ppl!
+I love history and enjoy observing how objects evolve from their beginnings to the present day. I also love exploring. I hope you’ll enjoy exploring this repository to see how the Web has changed since 1991, when Tim Berners-Lee created the first web page, up to the present.
 
-I love history. I love to spectate how the object was changed from its beggining till current time. 
-I also love exploring. Hope you would love to explore this repo to see how the Web was changed starting from 1991 when Tim Berners-Lee created the first web page till current time.
+I must apologize in advance for my English—it's not my first language. In this repository, I will attempt to recreate an identical web page for each year from 1991 to 2025.
 
-I must apologise for my English in advance, English is not my first language.
-In this repo I will try to create identical web page for each for different year starting for 1991 till 2025.
-
-Hope it will be interesting for you, as well as me to try some outdated techonlogy
+I hope you find it as interesting as I do to experiment with outdated technology!
 
 Arturs
 
-My Historic Library of Web
+My Historic Library of the Web
